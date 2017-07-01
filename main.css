@@ -1,0 +1,156 @@
+
+#wrapper {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+#main,
+#menu,
+#sidebar {
+  height: 600px;
+}
+
+#main,
+#menu,
+#sidebar {
+  background-color: #e9ebee;
+}
+#header {
+    background-color: #3B5998;
+    color: white;
+}
+.white-text {
+  color: white !important;
+}
+#header ul .glyphicon {
+    font-size: 20px;
+}
+.pull-right {
+    float: right!important;
+}
+
+.list-heading {
+    padding: 20px 15px 0 15px;
+	color: #64686E;
+}
+.events {
+	height:25px;
+	width:25px;
+	margin-right:5px;
+}
+.friend {
+       height:25px;
+	   width:25px;
+	   margin-right:5px;
+}
+.html{
+	height:25px;
+	width:25px;
+	margin-right:5px;
+}
+.baddi{
+	height:25px;
+width:25px;
+margin-right:5px;
+}
+.messenger{
+	height:25px;
+width:25px;
+margin-right:5px;
+}
+.newsfeed{
+	height:25px;
+width:25px;
+margin-right:5px;
+}
+.ex{
+	margin-left:14px;
+}
+	.guddu{
+	height:25px;
+width:25px;
+	}
+	.fe{
+		margin-left:32px;
+	}
+	#ty{
+		display:inline;
+	}
+	
+	.logo{
+		
+		height:35px;
+		width:50px;
+		margin-left:40px;
+		
+	}
+	.coc{
+		margin-right:5px;
+	}
+	.groups{
+		margin-right:5px;
+	}
+	.pages{
+		margin-right:5px;
+	}
+	.btn-default{
+		margin-left:-43px;
+		border:none;
+		height:23px;
+		background:#E9EBEE
+	}
+	#searchbox{
+		width:500px;
+		height:25px;
+	}
+	.navbar-form{
+		padding-left:-100px;
+	}
+	.navbar{
+		height:25px;
+	}
+	.panel-body .glyphicon {
+    margin-left: 10px;
+    margin-right: 4px;
+}
+.panel-footer{
+	margin-left:-15px;
+	margin-right:-15px;
+}
+.text-post {
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+.image-post {
+    margin-bottom: 15px;
+}
+#main {
+    overflow: auto;
+}
+#main::-webkit-scrollbar {
+    display: none;
+}
+.comment {
+    margin:0px;
+}
+input{
+width: 100%;
+}
+#as{
+font-style:bold;
+font-size: 30px;	
+}
+.f{
+	height:22px;
+	width:22px;
+	margin-top:-12px;
+	margin-left:45px;
+}
+.navbar-form {
+	margin-left:-22px;
+}
+.new{
+	height:150px;
+	width:234px;
+}
+	
